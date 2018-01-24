@@ -150,3 +150,12 @@ a {text-decoration: none; }
     height: 30%;
     font-size: large;
 }
+
+input[type=submit] {
+    border: none;
+    color: black;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}

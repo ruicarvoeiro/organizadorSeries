@@ -1,14 +1,10 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: joão Madeira
- * Date: 15/01/2018
- * Time: 16:34
- */
 
 require_once "bd_tabelas.php";
 require_once "querys.php";
 ini_set('max_execution_time', 300);
+ini_set('display_errors',0);
+error_reporting(E_ALL|E_STRICT);
 
 define(
     "URL_PRINCIPAL_PREFIXO",
@@ -30,7 +26,7 @@ define(
     "https://www.tugaflix.com/Episodio?E="
 );
 
-//define("MARCADOR_DE_HREFS", "<a class=\"browse-movie-title\" href=\"");
+
 define("MARCADOR_DE_HREFS", "<a href=\"");
 define("MARCADOR_DE_HREFS_SERIES", "<a class=\"browse-movie-link\" href=\"");
 define("FECHO_SERIE","\" class=\"browse-movie-title\" title=\"");
@@ -236,7 +232,7 @@ function sincronizarEpisodios(){
          $db->close();
         $maisAltoPorver = $todosPorVerBD[count($todosPorVerBD)-1];
 
-         //toados os episodios disponiveis no tuga para a serie
+         //todos os episodios disponiveis no tuga para a serie
          $seriesTuga = pesquisaEpisodiosSerie($series[$i][0]);
          //retorna o que tem o Ep mais alto Temp mais alta
          $ultimoSaido = $seriesTuga[count($seriesTuga)-1];
@@ -281,9 +277,6 @@ function selectTodas(){
     $db = dbConnect();
     $todasAsSeries = selectSerieVistos($db);
     $db->close();
-    /*for($i = 0; $i < count($todasAsSeries); $i++){
-        echo "Nome: ". $todasAsSeries[$i][0] . " Temporada " . $todasAsSeries[$i][1] . " Episodio " . $todasAsSeries[$i][2].PHP_EOL;
-    }*/
     return $todasAsSeries;
 }
 
@@ -291,9 +284,6 @@ function selectPorVer($pSerie){
     $db = dbConnect();
     $epPorVerDaSerie = vistoPorNome($db, $pSerie);
     $db->close();
-    /*for($i = 0; $i < count($epPorVerDaSerie); $i++){
-        echo "Nome: ". $epPorVerDaSerie[$i][0] . " Link: " . $epPorVerDaSerie[$i][1]. " Temporada " . $epPorVerDaSerie[$i][2] . " Episodio " . $epPorVerDaSerie[$i][3].PHP_EOL;
-    }*/
     return $epPorVerDaSerie;
 }
 
@@ -303,18 +293,3 @@ function nEpPorVer($pSerie){
     $db->close();
     return $nPorVer;
 }
-
-/*$serie = $argv;
-novaSerie($serie[1]);*/
-//apagarEpVisto("The Deuce", "S01", "E05");
-/*$serie = $argv;
-nEpPorVer($serie[1]);*/
-//novaSerie($serie[1]);
-//apagarSerie($serie[1]);
-
-/*if($_POST['novaSerie'] != "")
-{
-    novaSerie($_POST['novaSerie']);//echo("Welcome, Spoom.");
-}*/
-
-//apagarEpVisto("Bull", "S01", "E05");

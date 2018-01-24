@@ -1,0 +1,152 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("../imagens/wallpaper1.jpg");
+    font-family: "helvetica";
+}
+
+#contentorApp{
+    position: absolute;
+    margin-left: 15%;
+    width: 70%;
+    height: auto;
+    background-color: white;
+    border: 2px solid black;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #e9e9e9;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.topnav a.active {
+    background-color: #2196F3;
+    color: white;
+}
+.search {
+    width: 100%;
+    position: relative
+}
+
+.searchTerm {
+    float: left;
+    width: 100%;
+    border: 3px solid #00B4CC;
+    padding: 5px;
+    height: 20px;
+    border-radius: 5px;
+    outline: none;
+    color: #9DBFAF;
+}
+
+.searchTerm:focus{
+    color: #00B4CC;
+}
+
+.searchButton {
+    position: absolute;
+    right: -50px;
+    width: 40px;
+    height: 36px;
+    border: 1px solid #00B4CC;
+    background: #00B4CC;
+    text-align: center;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+/*Resize the wrap to see the search bar change!*/
+.wrap{
+    width: 30%;
+    position: absolute;
+    top: 50%;
+    left: 48%;
+    transform: translate(-50%, -50%);
+}
+
+#PesquisaAquiTexto{
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 38%;
+    text-align: center;
+
+}
+
+/*Table*/
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+
+}
+
+#tabelaSeries{
+    position: absolute;
+    top: 30%;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+   /* background-color: #dddddd;*/
+}
+
+
+/*END Table*/
+a {text-decoration: none; }
+
+.equipaBox {
+    position: absolute;
+    box-sizing: border-box;
+    width: 14.79%;
+    height: 32%;
+    border: 3px solid #BCE4FF;
+    border-radius: 6px;
+    background-color: #FFFFFF;
+    box-shadow: 0 2px 6px 2px rgba(170,170,170,0.05);
+    margin-top: 6%;
+    margin-left: 17%;
+    text-align: center;
+}
+
+#btnSync{
+    position: absolute;
+    margin-left: 45%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    width: 10%;
+    height: 5%;
+    border-radius: 4px 6px 4px;
+    border: none;
+    background-color: #dbe0de;
+    color: #183668;
+    font-weight: normal ;
+}
+
+#linkEpi{
+    width: 70%;
+    height: 30%;
+    font-size: large;
+}

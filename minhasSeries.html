@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/style.css" />
+    <title>Minhas Séries</title>
+    <?php require_once "tabelaSeries.php"; ?>
+</head>
+<body>
+
+<div id="contentorApp" style="height: 100%">
+    <div id="cabecalho">
+        <div class="topnav">
+            <a class="active" href="index.html">Track My Tv Shows</a>
+            <a href="minhasSeries.html">Minhas Séries</a>
+            <a href="sobre.html">Sobre</a>
+        </div>
+    </div>
+
+    <h2 style="text-align: center; color: darkblue">Minhas Séries</h2>
+    <input type="button" id="btnSync" value="Synchronize">
+    <?php echo criarTabela();?>
+<!--
+    <table style="position: absolute; margin-top:10%">
+        <tr>
+            <th>Nome</th>
+            <th>Temporada</th>
+            <th>Ultimo Episódio visto</th>
+            <th>Ver</th>
+            <th>Por ver</th>
+            <th>Remover</th>
+        </tr>
+        <tr>
+            <td><a href="serie.html">Breaking Bad</a></td>
+            <td>T1</td>
+            <td>Ep4</td>
+            <td><a href=" http://www.tugaflix.party/Serie?S=0903747">Link</a></td>
+            <td>5</td>
+            <td><input type="button" value="Remover"></td>
+        </tr>
+        <tr>
+            <td>How I Met Your Mother</td>
+            <td>T3</td>
+            <td>Ep12</td>
+            <td><a href=" http://www.tugaflix.party/Serie?S=0903747">Link</a></td>
+            <td>6</td>
+            <td><input type="button" value="Remover"></td>
+        </tr>
+        <tr>
+            <td>Game of Thrones</td>
+            <td>T5</td>
+            <td>Ep10</td>
+            <td><a href=" http://www.tugaflix.party/Serie?S=0903747">Link</a></td>
+            <td>15</td>
+            <td><input type="button" value="Remover"></td>
+        </tr>
+        <tr>
+            <td>The Blacklist</td>
+            <td>T1</td>
+            <td>Ep8</td>
+            <td><a href=" http://www.tugaflix.party/Serie?S=0903747">Link</a></td>
+            <td>2</td>
+            <td><input type="button" value="Remover"></td>
+        </tr>
+        <tr>
+            <td>The Big Bang Theory</td>
+            <td>T9</td>
+            <td>Ep5</td>
+            <td><a href=" http://www.tugaflix.party/Serie?S=0903747">Link</a></td>
+            <td>9</td>
+            <td><input type="button" value="Remover"></td>
+        </tr>
+
+    </table>
+-->
+    
+</div>
+
+</body>
+</html>

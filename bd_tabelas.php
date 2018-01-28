@@ -1,4 +1,6 @@
 <?php
+
+//definir constantes de acesso à base de dados e criaçao das tabelas "por_ver" e "Visto"
 define ("MYSQL_USER", "heimerdinger");
 define ("MYSQL_PASS", "#123456A");
 define ("MYSQL_HOST", "localhost");
@@ -27,7 +29,9 @@ define ("MYSQL_CREATE_TABLE_SERIE_VISTO",
 ");
 $INSTALL_PROCEDURE_POR_VER = [MYSQL_CREATE_SCHEMA, MYSQL_CREATE_TABLE_SERIE_POR_VER];
 $INSTALL_PROCEDURE_VISTO = [MYSQL_CREATE_SCHEMA, MYSQL_CREATE_TABLE_SERIE_VISTO];
+
 //------------------------------------------------------------
+//Conexão à base de dados
 function dbConnect ($pHost = MYSQL_HOST, $pUser = MYSQL_USER, $pPwd = MYSQL_PASS, $pPort = MYSQL_PORT){
     $db =  mysqli_connect($pHost, $pUser, $pPwd);
     $e = mysqli_connect_errno();
@@ -35,7 +39,9 @@ function dbConnect ($pHost = MYSQL_HOST, $pUser = MYSQL_USER, $pPwd = MYSQL_PASS
     //fb(__FUNCTION__, $msg = "", $e, $eM);
     return $e===0 ? $db : false;
 }//dbConnect
+
 //------------------------------------------------------------
+//Instalar a base de dados
 function dbInstaller($pDB, $pInstallProcedure){
     $errosAdmissiveis = [0, 1007, 1050];
     if ($pDB){
@@ -51,14 +57,19 @@ function dbInstaller($pDB, $pInstallProcedure){
     }//if
     return false;
 }//dbInstaller
+
 //------------------------------------------------------------
+//Função para gerar um feedback dos erros que possam, eventualmente ocorrer
 function fb($pQuemFazChamada, $pMsg, $pErro, $pMsgErro){
     $msg = sprintf("caller: %s\nmsg: %s\ne: %d\neM: %s\n\n", $pQuemFazChamada, $pMsg, $pErro, $pMsgErro);
     @ob_end_flush();
     echo $msg;
     @ob_start();
 }//fb
+
 //------------------------------------------------------------
+//Realiza a conexão, cria as tabelas e fecha a conexão (O codigo de criaçao das tabelas está comentado porque só é necessário correr uma vez para
+//criar as tabelas)
 $db = dbConnect();
 //$resultadoTrueEmSucessoFalseEmFailure = dbInstaller($db, $INSTALL_PROCEDURE_VISTO);
 //$resultadoTrueEmSucessoFalseEmFailure .= dbInstaller($db, $INSTALL_PROCEDURE_POR_VER);

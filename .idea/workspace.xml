@@ -2,18 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4978fce-24a0-43ca-bbe8-f1189c32654a" name="Default" comment="Mudei o height das paginas para suportar o tamanho das tabelas">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tabelaSeries.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bd_tabelas.php" afterPath="$PROJECT_DIR$/bd_tabelas.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inicio.php" afterPath="$PROJECT_DIR$/inicio.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/minhasSeries.html" afterPath="$PROJECT_DIR$/minhasSeries.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pesquisador.php" afterPath="$PROJECT_DIR$/pesquisador.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/querys.php" afterPath="$PROJECT_DIR$/querys.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/serie.html" afterPath="$PROJECT_DIR$/serie.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sobre.html" afterPath="$PROJECT_DIR$/sobre.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tabelaEpisodios.php" afterPath="$PROJECT_DIR$/tabelaEpisodios.php" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/bd_tabelas.php" afterPath="$PROJECT_DIR$/bd_tabelas.php" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change beforePath="$PROJECT_DIR$/minhasSeries.html" afterPath="$PROJECT_DIR$/minhasSeries.html" />
+      <change beforePath="$PROJECT_DIR$/pesquisador.php" afterPath="$PROJECT_DIR$/pesquisador.php" />
+      <change beforePath="$PROJECT_DIR$/serie.html" afterPath="$PROJECT_DIR$/serie.html" />
+      <change beforePath="$PROJECT_DIR$/tabelaEpisodios.php" afterPath="$PROJECT_DIR$/tabelaEpisodios.php" />
+      <change beforePath="$PROJECT_DIR$/tabelaSeries.php" afterPath="$PROJECT_DIR$/tabelaSeries.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,89 +19,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="28" column="46" lean-forward="true" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tabelaEpisodios.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tabelaEpisodios.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-607">
-              <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-              <folding>
-                <marker date="1516734936495" expanded="true" signature="411:446" ph="..." />
-                <marker date="1516734936495" expanded="true" signature="1336:1371" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file leaf-file-name="tabelaSeries.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tabelaSeries.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-              <folding>
-                <marker date="1516736958309" expanded="true" signature="169:181" ph="..." />
-                <marker date="1516736958309" expanded="true" signature="826:1137" ph="..." />
-                <marker date="1516736958309" expanded="true" signature="875:881" ph="..." />
-                <marker date="1516736958309" expanded="true" signature="875:885" ph="..." />
-                <marker date="1516736958309" expanded="true" signature="875:900" ph="..." />
-                <marker date="1516736958309" expanded="true" signature="901:1137" ph="..." />
-                <marker date="1516736958309" expanded="true" signature="1381:1394" ph="..." />
-                <marker date="1516736958309" expanded="true" signature="1455:1480" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="minhasSeries.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/minhasSeries.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="58" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="58" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1516723241995" expanded="false" signature="618:652" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="serie.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/serie.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pesquisador.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pesquisador.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="314" column="22" lean-forward="true" selection-start-line="314" selection-start-column="22" selection-end-line="314" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="481">
-              <caret line="150" column="21" lean-forward="false" selection-start-line="150" selection-start-column="21" selection-end-line="150" selection-end-column="21" />
+            <state relative-caret-position="799">
+              <caret line="47" column="27" lean-forward="true" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -128,14 +47,14 @@
         <option value="$PROJECT_DIR$/inicio.php" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/querys.php" />
-        <option value="$PROJECT_DIR$/bd_tabelas.php" />
-        <option value="$PROJECT_DIR$/serie.html" />
         <option value="$PROJECT_DIR$/sobre.html" />
+        <option value="$PROJECT_DIR$/bd_tabelas.php" />
         <option value="$PROJECT_DIR$/pesquisador.php" />
         <option value="$PROJECT_DIR$/minhasSeries.html" />
-        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/serie.html" />
         <option value="$PROJECT_DIR$/tabelaEpisodios.php" />
         <option value="$PROJECT_DIR$/tabelaSeries.php" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
@@ -166,7 +85,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -183,6 +101,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -227,6 +146,8 @@
       <workItem from="1516706799443" duration="4536000" />
       <workItem from="1516715507262" duration="895000" />
       <workItem from="1516716838422" duration="20061000" />
+      <workItem from="1516826216200" duration="75000" />
+      <workItem from="1516826293015" duration="6583000" />
     </task>
     <task id="LOCAL-00001" summary="Mudei o height das paginas para suportar o tamanho das tabelas">
       <created>1516707381415</created>
@@ -239,13 +160,14 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42581000" />
+    <option name="totallyTimeSpent" value="49239000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17715959" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -260,7 +182,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -284,19 +205,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1516716369840" expanded="true" signature="89:182" ph="insert into ${MYSQL_SCHEMA}.${MYSQL_TABLE_SERIE_VISTO}... " />
-            <marker date="1516716369840" expanded="true" signature="504:624" ph="insert into ${MYSQL_SCHEMA}.${MYSQL_TABLE_SERIE_POR_VER}... " />
-            <marker date="1516716369840" expanded="true" signature="1376:1514" ph="delete from ${MYSQL_SCHEMA}.${MYSQL_TABLE_SERIE_POR_VER}... " />
-            <marker date="1516716369840" expanded="true" signature="1881:1993" ph="select nome,... ${MYSQL_TABLE_SERIE_POR_VER}" />
-            <marker date="1516716369840" expanded="true" signature="3040:3123" ph="select nome ${MYSQL_TABLE_SERIE_POR_VER}" />
-            <marker date="1516716369840" expanded="true" signature="3593:3683" ph="select nome,... ${MYSQL_TABLE_SERIE_POR_VER}" />
-            <marker date="1516716369840" expanded="true" signature="4375:4462" ph="select nome,... ${MYSQL_TABLE_SERIE_VISTO}" />
-            <marker date="1516716369840" expanded="true" signature="5123:5236" ph="select nome,... ${MYSQL_TABLE_SERIE_POR_VER}" />
-            <marker date="1516716369840" expanded="true" signature="5948:6027" ph="delete from ${MYSQL_SCHEMA}.${MYSQL_TABLE_SERIE_POR_VER}... " />
-            <marker date="1516716369840" expanded="true" signature="6312:6389" ph="delete from ${MYSQL_SCHEMA}.${MYSQL_TABLE_SERIE_VISTO}... " />
-            <marker date="1516716369840" expanded="true" signature="6670:6753" ph="select nome ${MYSQL_TABLE_SERIE_POR_VER}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -304,10 +213,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-          <folding>
-            <marker date="1516734936495" expanded="true" signature="411:446" ph="..." />
-            <marker date="1516734936495" expanded="true" signature="1336:1371" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -316,8 +222,8 @@
         <state relative-caret-position="221">
           <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
           <folding>
-            <marker date="1516717061914" expanded="true" signature="439:695" ph="CREATE TABLE... ${MYSQL_TABLE_SERIE_POR_VER}" />
-            <marker date="1516717061914" expanded="true" signature="748:971" ph="CREATE TABLE... ${MYSQL_TABLE_SERIE_VISTO}" />
+            <marker date="1516826740527" expanded="true" signature="530:786" ph="CREATE TABLE... ${MYSQL_TABLE_SERIE_POR_VER}" />
+            <marker date="1516826740527" expanded="true" signature="839:1062" ph="CREATE TABLE... ${MYSQL_TABLE_SERIE_VISTO}" />
           </folding>
         </state>
       </provider>
@@ -326,9 +232,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="28" column="54" lean-forward="false" selection-start-line="28" selection-start-column="54" selection-end-line="28" selection-end-column="54" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -348,14 +252,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inicio.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="46" lean-forward="false" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/inicio.php" />
     <entry file="file://$PROJECT_DIR$/pesquisador.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3485">
@@ -368,10 +265,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="44" lean-forward="false" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1516723241995" expanded="false" signature="618:652" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -379,19 +273,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1516716369840" expanded="true" signature="89:182" ph="insert into ${MYSQL_SCHEMA}.${MYSQL_TABLE_SERIE_VISTO}... " />
-            <marker date="1516716369840" expanded="true" signature="504:624" ph="insert into ${MYSQL_SCHEMA}.${MYSQL_TABLE_SERIE_POR_VER}... " />
-            <marker date="1516716369840" expanded="true" signature="1376:1514" ph="delete from ${MYSQL_SCHEMA}.${MYSQL_TABLE_SERIE_POR_VER}... " />
-            <marker date="1516716369840" expanded="true" signature="1881:1993" ph="select nome,... ${MYSQL_TABLE_SERIE_POR_VER}" />
-            <marker date="1516716369840" expanded="true" signature="3040:3123" ph="select nome ${MYSQL_TABLE_SERIE_POR_VER}" />
-            <marker date="1516716369840" expanded="true" signature="3593:3683" ph="select nome,... ${MYSQL_TABLE_SERIE_POR_VER}" />
-            <marker date="1516716369840" expanded="true" signature="4375:4462" ph="select nome,... ${MYSQL_TABLE_SERIE_VISTO}" />
-            <marker date="1516716369840" expanded="true" signature="5123:5236" ph="select nome,... ${MYSQL_TABLE_SERIE_POR_VER}" />
-            <marker date="1516716369840" expanded="true" signature="5948:6027" ph="delete from ${MYSQL_SCHEMA}.${MYSQL_TABLE_SERIE_POR_VER}... " />
-            <marker date="1516716369840" expanded="true" signature="6312:6389" ph="delete from ${MYSQL_SCHEMA}.${MYSQL_TABLE_SERIE_VISTO}... " />
-            <marker date="1516716369840" expanded="true" signature="6670:6753" ph="select nome ${MYSQL_TABLE_SERIE_POR_VER}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -399,9 +281,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="28" column="54" lean-forward="false" selection-start-line="28" selection-start-column="54" selection-end-line="28" selection-end-column="54" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -409,10 +289,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="15" lean-forward="false" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-          <folding>
-            <marker date="1516734936495" expanded="true" signature="411:446" ph="..." />
-            <marker date="1516734936495" expanded="true" signature="1336:1371" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -432,14 +309,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inicio.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="46" lean-forward="false" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/inicio.php" />
     <entry file="file://$PROJECT_DIR$/pesquisador.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3485">
@@ -452,10 +322,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="44" lean-forward="false" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1516723241995" expanded="false" signature="618:652" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -463,19 +330,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1479">
           <caret line="87" column="14" lean-forward="true" selection-start-line="87" selection-start-column="14" selection-end-line="87" selection-end-column="14" />
-          <folding>
-            <marker date="1516716369840" expanded="true" signature="89:182" ph="insert into ${MYSQL_SCHEMA}.${MYSQL_TABLE_SERIE_VISTO}... " />
-            <marker date="1516716369840" expanded="true" signature="504:624" ph="insert into ${MYSQL_SCHEMA}.${MYSQL_TABLE_SERIE_POR_VER}... " />
-            <marker date="1516716369840" expanded="true" signature="1376:1514" ph="delete from ${MYSQL_SCHEMA}.${MYSQL_TABLE_SERIE_POR_VER}... " />
-            <marker date="1516716369840" expanded="true" signature="1881:1993" ph="select nome,... ${MYSQL_TABLE_SERIE_POR_VER}" />
-            <marker date="1516716369840" expanded="true" signature="3040:3123" ph="select nome ${MYSQL_TABLE_SERIE_POR_VER}" />
-            <marker date="1516716369840" expanded="true" signature="3593:3683" ph="select nome,... ${MYSQL_TABLE_SERIE_POR_VER}" />
-            <marker date="1516716369840" expanded="true" signature="4375:4462" ph="select nome,... ${MYSQL_TABLE_SERIE_VISTO}" />
-            <marker date="1516716369840" expanded="true" signature="5123:5236" ph="select nome,... ${MYSQL_TABLE_SERIE_POR_VER}" />
-            <marker date="1516716369840" expanded="true" signature="5948:6027" ph="delete from ${MYSQL_SCHEMA}.${MYSQL_TABLE_SERIE_POR_VER}... " />
-            <marker date="1516716369840" expanded="true" signature="6312:6389" ph="delete from ${MYSQL_SCHEMA}.${MYSQL_TABLE_SERIE_VISTO}... " />
-            <marker date="1516716369840" expanded="true" signature="6670:6753" ph="select nome ${MYSQL_TABLE_SERIE_POR_VER}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -484,8 +339,8 @@
         <state relative-caret-position="187">
           <caret line="11" column="66" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="66" />
           <folding>
-            <marker date="1516717061914" expanded="true" signature="439:695" ph="CREATE TABLE... ${MYSQL_TABLE_SERIE_POR_VER}" />
-            <marker date="1516717061914" expanded="true" signature="748:971" ph="CREATE TABLE... ${MYSQL_TABLE_SERIE_VISTO}" />
+            <marker date="1516826740527" expanded="true" signature="530:786" ph="CREATE TABLE... ${MYSQL_TABLE_SERIE_POR_VER}" />
+            <marker date="1516826740527" expanded="true" signature="839:1062" ph="CREATE TABLE... ${MYSQL_TABLE_SERIE_VISTO}" />
           </folding>
         </state>
       </provider>
@@ -498,14 +353,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inicio.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/inicio.php" />
     <entry file="file://$PROJECT_DIR$/pesquisador.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3196">
@@ -518,10 +366,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-          <folding>
-            <marker date="1516734936495" expanded="true" signature="411:446" ph="..." />
-            <marker date="1516734936495" expanded="true" signature="1336:1371" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -529,30 +374,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="20" lean-forward="false" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-          <folding>
-            <marker date="1516716369840" expanded="true" signature="89:182" ph="insert into ${MYSQL_SCHEMA}.${MYSQL_TABLE_SERIE_VISTO}... " />
-            <marker date="1516716369840" expanded="true" signature="504:624" ph="insert into ${MYSQL_SCHEMA}.${MYSQL_TABLE_SERIE_POR_VER}... " />
-            <marker date="1516716369840" expanded="true" signature="1376:1514" ph="delete from ${MYSQL_SCHEMA}.${MYSQL_TABLE_SERIE_POR_VER}... " />
-            <marker date="1516716369840" expanded="true" signature="1881:1993" ph="select nome,... ${MYSQL_TABLE_SERIE_POR_VER}" />
-            <marker date="1516716369840" expanded="true" signature="3040:3123" ph="select nome ${MYSQL_TABLE_SERIE_POR_VER}" />
-            <marker date="1516716369840" expanded="true" signature="3593:3683" ph="select nome,... ${MYSQL_TABLE_SERIE_POR_VER}" />
-            <marker date="1516716369840" expanded="true" signature="4375:4462" ph="select nome,... ${MYSQL_TABLE_SERIE_VISTO}" />
-            <marker date="1516716369840" expanded="true" signature="5123:5236" ph="select nome,... ${MYSQL_TABLE_SERIE_POR_VER}" />
-            <marker date="1516716369840" expanded="true" signature="5948:6027" ph="delete from ${MYSQL_SCHEMA}.${MYSQL_TABLE_SERIE_POR_VER}... " />
-            <marker date="1516716369840" expanded="true" signature="6312:6389" ph="delete from ${MYSQL_SCHEMA}.${MYSQL_TABLE_SERIE_VISTO}... " />
-            <marker date="1516716369840" expanded="true" signature="6670:6753" ph="select nome ${MYSQL_TABLE_SERIE_POR_VER}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inicio.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="12" column="45" lean-forward="true" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/inicio.php" />
     <entry file="file://$PROJECT_DIR$/serie.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -565,9 +391,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="0" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -575,10 +399,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1516723241995" expanded="false" signature="618:652" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -601,30 +422,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="20" lean-forward="false" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-          <folding>
-            <marker date="1516716369840" expanded="true" signature="89:182" ph="insert into ${MYSQL_SCHEMA}.${MYSQL_TABLE_SERIE_VISTO}... " />
-            <marker date="1516716369840" expanded="true" signature="504:624" ph="insert into ${MYSQL_SCHEMA}.${MYSQL_TABLE_SERIE_POR_VER}... " />
-            <marker date="1516716369840" expanded="true" signature="1376:1514" ph="delete from ${MYSQL_SCHEMA}.${MYSQL_TABLE_SERIE_POR_VER}... " />
-            <marker date="1516716369840" expanded="true" signature="1881:1993" ph="select nome,... ${MYSQL_TABLE_SERIE_POR_VER}" />
-            <marker date="1516716369840" expanded="true" signature="3040:3123" ph="select nome ${MYSQL_TABLE_SERIE_POR_VER}" />
-            <marker date="1516716369840" expanded="true" signature="3593:3683" ph="select nome,... ${MYSQL_TABLE_SERIE_POR_VER}" />
-            <marker date="1516716369840" expanded="true" signature="4375:4462" ph="select nome,... ${MYSQL_TABLE_SERIE_VISTO}" />
-            <marker date="1516716369840" expanded="true" signature="5123:5236" ph="select nome,... ${MYSQL_TABLE_SERIE_POR_VER}" />
-            <marker date="1516716369840" expanded="true" signature="5948:6027" ph="delete from ${MYSQL_SCHEMA}.${MYSQL_TABLE_SERIE_POR_VER}... " />
-            <marker date="1516716369840" expanded="true" signature="6312:6389" ph="delete from ${MYSQL_SCHEMA}.${MYSQL_TABLE_SERIE_VISTO}... " />
-            <marker date="1516716369840" expanded="true" signature="6670:6753" ph="select nome ${MYSQL_TABLE_SERIE_POR_VER}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inicio.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="12" column="45" lean-forward="true" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/inicio.php" />
     <entry file="file://$PROJECT_DIR$/serie.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -637,10 +439,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1516723241995" expanded="false" signature="618:652" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -656,9 +455,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="0" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -666,19 +463,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1516716369840" expanded="true" signature="89:182" ph="insert into ${MYSQL_SCHEMA}.${MYSQL_TABLE_SERIE_VISTO}... " />
-            <marker date="1516716369840" expanded="true" signature="504:624" ph="insert into ${MYSQL_SCHEMA}.${MYSQL_TABLE_SERIE_POR_VER}... " />
-            <marker date="1516716369840" expanded="true" signature="1376:1514" ph="delete from ${MYSQL_SCHEMA}.${MYSQL_TABLE_SERIE_POR_VER}... " />
-            <marker date="1516716369840" expanded="true" signature="1881:1993" ph="select nome,... ${MYSQL_TABLE_SERIE_POR_VER}" />
-            <marker date="1516716369840" expanded="true" signature="3040:3123" ph="select nome ${MYSQL_TABLE_SERIE_POR_VER}" />
-            <marker date="1516716369840" expanded="true" signature="3593:3683" ph="select nome,... ${MYSQL_TABLE_SERIE_POR_VER}" />
-            <marker date="1516716369840" expanded="true" signature="4375:4462" ph="select nome,... ${MYSQL_TABLE_SERIE_VISTO}" />
-            <marker date="1516716369840" expanded="true" signature="5123:5236" ph="select nome,... ${MYSQL_TABLE_SERIE_POR_VER}" />
-            <marker date="1516716369840" expanded="true" signature="5948:6027" ph="delete from ${MYSQL_SCHEMA}.${MYSQL_TABLE_SERIE_POR_VER}... " />
-            <marker date="1516716369840" expanded="true" signature="6312:6389" ph="delete from ${MYSQL_SCHEMA}.${MYSQL_TABLE_SERIE_VISTO}... " />
-            <marker date="1516716369840" expanded="true" signature="6670:6753" ph="select nome ${MYSQL_TABLE_SERIE_POR_VER}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -692,41 +477,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/aiai.php" />
     <entry file="file://$PROJECT_DIR$/index.php" />
-    <entry file="file://$PROJECT_DIR$/querys.php">
+    <entry file="file://$PROJECT_DIR$/inicio.php" />
+    <entry file="file://$PROJECT_DIR$/bd_tabelas.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="57" column="40" lean-forward="false" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
+        <state relative-caret-position="618">
+          <caret line="71" column="19" lean-forward="true" selection-start-line="71" selection-start-column="19" selection-end-line="71" selection-end-column="19" />
           <folding>
-            <marker date="1516716369840" expanded="true" signature="89:182" ph="insert into ${MYSQL_SCHEMA}.${MYSQL_TABLE_SERIE_VISTO}... " />
-            <marker date="1516716369840" expanded="true" signature="504:624" ph="insert into ${MYSQL_SCHEMA}.${MYSQL_TABLE_SERIE_POR_VER}... " />
-            <marker date="1516716369840" expanded="true" signature="1376:1514" ph="delete from ${MYSQL_SCHEMA}.${MYSQL_TABLE_SERIE_POR_VER}... " />
-            <marker date="1516716369840" expanded="true" signature="1881:1993" ph="select nome,... ${MYSQL_TABLE_SERIE_POR_VER}" />
-            <marker date="1516716369840" expanded="true" signature="3040:3123" ph="select nome ${MYSQL_TABLE_SERIE_POR_VER}" />
-            <marker date="1516716369840" expanded="true" signature="3593:3683" ph="select nome,... ${MYSQL_TABLE_SERIE_POR_VER}" />
-            <marker date="1516716369840" expanded="true" signature="4375:4462" ph="select nome,... ${MYSQL_TABLE_SERIE_VISTO}" />
-            <marker date="1516716369840" expanded="true" signature="5123:5236" ph="select nome,... ${MYSQL_TABLE_SERIE_POR_VER}" />
-            <marker date="1516716369840" expanded="true" signature="5948:6027" ph="delete from ${MYSQL_SCHEMA}.${MYSQL_TABLE_SERIE_POR_VER}... " />
-            <marker date="1516716369840" expanded="true" signature="6312:6389" ph="delete from ${MYSQL_SCHEMA}.${MYSQL_TABLE_SERIE_VISTO}... " />
-            <marker date="1516716369840" expanded="true" signature="6670:6753" ph="select nome ${MYSQL_TABLE_SERIE_POR_VER}" />
+            <marker date="1516826740527" expanded="true" signature="530:786" ph="CREATE TABLE... ${MYSQL_TABLE_SERIE_POR_VER}" />
+            <marker date="1516826740527" expanded="true" signature="839:1062" ph="CREATE TABLE... ${MYSQL_TABLE_SERIE_VISTO}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inicio.php">
+    <entry file="file://$PROJECT_DIR$/querys.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="46" lean-forward="false" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bd_tabelas.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="70" lean-forward="true" selection-start-line="11" selection-start-column="70" selection-end-line="11" selection-end-column="70" />
+        <state relative-caret-position="255">
+          <caret line="57" column="40" lean-forward="false" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
           <folding>
-            <marker date="1516717061914" expanded="true" signature="439:695" ph="CREATE TABLE... ${MYSQL_TABLE_SERIE_POR_VER}" />
-            <marker date="1516717061914" expanded="true" signature="748:971" ph="CREATE TABLE... ${MYSQL_TABLE_SERIE_VISTO}" />
+            <marker date="1516820274609" expanded="true" signature="89:182" ph="insert into ${MYSQL_SCHEMA}.${MYSQL_TABLE_SERIE_VISTO}... " />
+            <marker date="1516820274609" expanded="true" signature="504:624" ph="insert into ${MYSQL_SCHEMA}.${MYSQL_TABLE_SERIE_POR_VER}... " />
+            <marker date="1516820274609" expanded="true" signature="1376:1514" ph="delete from ${MYSQL_SCHEMA}.${MYSQL_TABLE_SERIE_POR_VER}... " />
+            <marker date="1516820274609" expanded="true" signature="1881:1993" ph="select nome,... ${MYSQL_TABLE_SERIE_POR_VER}" />
+            <marker date="1516820274609" expanded="true" signature="3040:3123" ph="select nome ${MYSQL_TABLE_SERIE_POR_VER}" />
+            <marker date="1516820274609" expanded="true" signature="3593:3683" ph="select nome,... ${MYSQL_TABLE_SERIE_POR_VER}" />
+            <marker date="1516820274609" expanded="true" signature="4375:4462" ph="select nome,... ${MYSQL_TABLE_SERIE_VISTO}" />
+            <marker date="1516820274609" expanded="true" signature="5123:5236" ph="select nome,... ${MYSQL_TABLE_SERIE_POR_VER}" />
+            <marker date="1516820274609" expanded="true" signature="5948:6027" ph="delete from ${MYSQL_SCHEMA}.${MYSQL_TABLE_SERIE_POR_VER}... " />
+            <marker date="1516820274609" expanded="true" signature="6312:6389" ph="delete from ${MYSQL_SCHEMA}.${MYSQL_TABLE_SERIE_VISTO}... " />
+            <marker date="1516820274609" expanded="true" signature="6670:6753" ph="select nome ${MYSQL_TABLE_SERIE_POR_VER}" />
           </folding>
         </state>
       </provider>
@@ -735,82 +513,70 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="9" column="42" lean-forward="false" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="150" column="21" lean-forward="false" selection-start-line="150" selection-start-column="21" selection-end-line="150" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/minhasSeries.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="58" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="58" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1516723241995" expanded="false" signature="618:652" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pesquisador.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="314" column="22" lean-forward="true" selection-start-line="314" selection-start-column="22" selection-end-line="314" selection-end-column="22" />
+        <state relative-caret-position="374">
+          <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/serie.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        <state relative-caret-position="306">
+          <caret line="18" column="69" lean-forward="false" selection-start-line="18" selection-start-column="69" selection-end-line="18" selection-end-column="69" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="28" column="46" lean-forward="true" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="403">
+          <caret line="24" column="46" lean-forward="false" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pesquisador.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="961">
+          <caret line="321" column="44" lean-forward="true" selection-start-line="321" selection-start-column="44" selection-end-line="321" selection-end-column="44" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tabelaEpisodios.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-607">
-          <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        <state relative-caret-position="533">
+          <caret line="34" column="103" lean-forward="false" selection-start-line="34" selection-start-column="103" selection-end-line="34" selection-end-column="103" />
           <folding>
-            <marker date="1516734936495" expanded="true" signature="411:446" ph="..." />
-            <marker date="1516734936495" expanded="true" signature="1336:1371" ph="..." />
+            <marker date="1516833869728" expanded="true" signature="648:683" ph="..." />
+            <marker date="1516833869728" expanded="true" signature="1459:1872" ph="..." />
+            <marker date="1516833869728" expanded="true" signature="1506:1867" ph="..." />
+            <marker date="1516833869728" expanded="true" signature="1991:2026" ph="..." />
+            <marker date="1516833869728" expanded="true" signature="2714:3126" ph="..." />
+            <marker date="1516833869728" expanded="true" signature="2761:3121" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1241">
+          <caret line="73" column="0" lean-forward="true" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tabelaSeries.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-          <folding>
-            <marker date="1516736958309" expanded="true" signature="169:181" ph="..." />
-            <marker date="1516736958309" expanded="true" signature="826:1137" ph="..." />
-            <marker date="1516736958309" expanded="true" signature="875:881" ph="..." />
-            <marker date="1516736958309" expanded="true" signature="875:885" ph="..." />
-            <marker date="1516736958309" expanded="true" signature="875:900" ph="..." />
-            <marker date="1516736958309" expanded="true" signature="901:1137" ph="..." />
-            <marker date="1516736958309" expanded="true" signature="1381:1394" ph="..." />
-            <marker date="1516736958309" expanded="true" signature="1455:1480" ph="..." />
-          </folding>
+        <state relative-caret-position="799">
+          <caret line="47" column="27" lean-forward="true" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>

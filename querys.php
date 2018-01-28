@@ -70,18 +70,7 @@ function dbEpisodiosPorVer($pDB, $pNome){
     }
     return $ret;
 }
-/*
-function removeSerie($pDB, $pNome){
-    $q = "delete from".MYSQL_SCHEMA.".".MYSQL_TABLE_SERIE_POR_VER."where nome='$pNome'";
-    if ($pDB){
-        $result = $pDB->query($q);
-        $e = mysqli_errno($pDB);
-        $eM = mysqli_error($pDB);
-        if (VERBOSE) fb(__FUNCTION__, $q, $e, $eM);
-        return $result;
-    }
-    return false;
-}*/
+
 
 function serieExistente($pDB, $pNome){
     $q = "select nome from ".MYSQL_SCHEMA.".".MYSQL_TABLE_SERIE_POR_VER." where nome='$pNome'";
